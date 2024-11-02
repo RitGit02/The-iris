@@ -76,7 +76,7 @@ Machine Learning Models Used
 Results and Accuracy
 --------------------
 The performance of each model is measured using accuracy scores on test data:
-- KNN Model (k=9): ~96% accuracy
+- KNN Model (k=9): ~100% accuracy
 - Naive Bayes Model: ~94% accuracy
 - SVM Model: ~97% accuracy
 
